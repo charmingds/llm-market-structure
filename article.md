@@ -252,7 +252,7 @@ Sutton 如果在世，大概会微微一笑：一切尽在模型中。
 
 ---
 
-*本文的经济学模型代码（SymPy 推导 + 数值模拟）可应要求提供。文件路径：`~/.claude/scripts/sutton_llm_market.py`*
+*本文的经济学模型代码（SymPy 推导 + 数值模拟）：[github.com/charmingds/llm-market-structure](https://github.com/charmingds/llm-market-structure)*
 
 *数据来源（2026 年 6 月）：Sensor Tower, SimilarWeb, Apptopia, QuestMobile, Forbes, Wired, CSIS/SemiAnalysis 报告。所有估值和用户数均标注在首次出现处，具体时间点以最新可得数据为准。*
 
